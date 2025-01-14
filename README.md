@@ -10,10 +10,8 @@ This repository contains the source code for a Solar Monitoring System using ESP
 - Modular design with FreeRTOS tasks.
 
 **Project Structure**
-- main.ino: Arduino-based code for simulation.
-- esp32_code cpp: ESP32-based code for the actual deployment.
+- main.cpp: ESP32-based code for the actual deployment.
 - hardware/: Contains schematics, footprints PCBs, Simulation.
-- Flowchart: Logical flow representation (can be added as a PDF/PNG).
 
 **Software Dependencies**
 
