@@ -12,7 +12,7 @@ This repository contains the source code for a Solar Monitoring System using ESP
 **Project Structure**
 - main.ino: Arduino-based code for simulation.
 - esp32_code cpp: ESP32-based code for the actual deployment.
-- PCB Sch: Contains schematics, footprints PCBs.
+- hardware/: Contains schematics, footprints PCBs, Simulation.
 - Flowchart: Logical flow representation (can be added as a PDF/PNG).
 
 **Software Dependencies**
@@ -32,5 +32,5 @@ This repository contains the source code for a Solar Monitoring System using ESP
 - Add additional panels and sensors for scalability.
 - Enhance data visualization with a web dashboard.
 
-
 ****I Made all of this just for fun****
+Feel free give any feedback
