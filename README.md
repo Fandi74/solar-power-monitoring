@@ -34,3 +34,10 @@ This repository contains the source code for a Solar Monitoring System using ESP
 
 ****I Made all of this just for fun****
 Feel free give any feedback
+
+**3D PCB**
+![image](https://github.com/user-attachments/assets/385ede2e-5562-44b3-b791-395de2d55ff2)
+
+**Schematic**
+![Solar Panel Monitoring_page-0001](https://github.com/user-attachments/assets/2244f3c1-5ff8-4796-b8df-9c2aaa513c88)
+
